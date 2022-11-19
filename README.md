@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Đặng Thanh Bình
-- 🔭 I am currently studying Java and Java frameworks
-- 👀 I’m interested in traveling, especially by motorbike
-- 💞️ I’m looking for an internship to gain professional skills and personal development
 
 
 <!---
